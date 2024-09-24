@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @priyam001
-- 👀 I’m interested in Cyber security ,Currently learning ...
+- 👀 I’m interested in cybersecurity and am currently learning ...
 - 📫 Reach me https://www.linkedin.com/in/priyam-patel-450307206/
 
 <!---
