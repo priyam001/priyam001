@@ -2,15 +2,13 @@
 <h3 align="center">A passionate Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Student;CTF+Player;Always+learning+new+things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Student;CTF+Player;Always+learning&center=true&width=380&height=45">
 </p>
 
 ### 👨🏻‍💻 About Me:
-- 🔭 I'm currently working on improving my cybersecurity skills
-- 🌱 I'm learning Penetration Testing and Ethical Hacking
 - 👯 Looking to collaborate on Security Projects
 - 💬 Ask me about Network Security, Web Security
-- 🎯 Goals: Contribute to Open Source projects
+- 🎯 Contribute to Open Source projects
 
 ### 🛠 Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
