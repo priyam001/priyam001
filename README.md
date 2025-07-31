@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Student;CTF+Player;Always+learning&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Professional;CTF+Player;Always+learning&center=true&width=380&height=45">
 </p>
 
 ### 👨🏻‍💻 About Me:
 - 👯 Looking to collaborate on Security Projects
-- 💬 Ask me about Network Security, Web Security
+- 💬 Ask me about Network Security, Web Security, Firewalls
 - 🎯 Contribute to Open Source projects
 
 ### 🛠 Tech Stack:
