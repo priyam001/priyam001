@@ -7,14 +7,8 @@
 
 ### 👨🏻‍💻 About Me:
 - 👯 Looking to collaborate on Security Projects
-- 💬 Ask me about Network Security, Web Security, Firewalls
+- 💬 Ask me about Network Security, Web Security, Firewalls, Device Management, Crowdstrike
 - 🎯 Contribute to Open Source projects
-
-### 🛠 Tech Stack:
-#Python
-#Device Management
-#VAPT
-#Network Security
 
 ### 🤝🏻 Connect with Me:
 <p align="center">
