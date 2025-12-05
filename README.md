@@ -18,9 +18,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ### 📊 GitHub Analytics:
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyam001&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyam001&layout=compact&theme=radical"/>
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyam001&show_icons=true&theme=radical" alt="GitHub Stats"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyam001&layout=compact&theme=radical" alt="Top Languages"/> 
 </p>
 
 ### 🤝🏻 Connect with Me:
