@@ -11,10 +11,10 @@
 - 🎯 Contribute to Open Source projects
 
 ### 🛠 Tech Stack:
-![Python]
-![Device Management]
-![VAPT]
-![Network Security]
+#Python
+#Device Management
+#VAPT
+#Network Security
 
 ### 🤝🏻 Connect with Me:
 <p align="center">
