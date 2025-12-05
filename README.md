@@ -11,11 +11,10 @@
 - 🎯 Contribute to Open Source projects
 
 ### 🛠 Tech Stack:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Kali](https://img.shields.io/badge/-Kali-05122A?style=flat&logo=kali-linux)
-![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Python]
+![Device Management]
+![VAPT]
+![Network Security]
 
 ### 🤝🏻 Connect with Me:
 <p align="center">
