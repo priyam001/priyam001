@@ -1,5 +1,5 @@
 <h1 align="center">Priyam Patel</h1>
-<h4 align="center">Cybersecurity Professional · CTF Player · Open Source Contributor</h4>
+<h4 align="center">Cybersecurity Professional · Open Source Contributor</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=400&lines=Securing+Systems+%7C+Breaking+Barriers;Network+%7C+Web+%7C+Cloud+Security;Always+Learning+Something+New+🚀" alt="Typing SVG" />
